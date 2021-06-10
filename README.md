@@ -8,4 +8,29 @@ ArduBlu provides premium content to the user while it is ad-free. We expect only
 
 <i>Attention: If your phone cannot see the module in the Bluetooth settings, there may be a problem with the module or the android may not support the module. In this case, you cannot control your project with ArduBlu!</i>
 
-<p align="center">Official Website: [BBK Development](https://www.bbkdevelopment.com/bbk-development/ardublu)</p> 
+&nbsp;
+
+<p align="center">Official Website: <a href="https://www.bbkdevelopment.com/bbk-development/ardublu">BBK Development</a></p>
+
+&nbsp;
+
+## Key Featues
+-	Connect to Bluetooth modules. (e.g. HC-05, HC-06, etc.)
+
+-   Control projects via Bluetooth. (e.g. Arduino, Raspberry Pi, Raspberry Pico, etc.)
+
+-   Remote car control.
+
+-   Create scheduled tasks.
+
+-   Control both servo and step motors.
+
+-   Monitor temperature and set up notifications.
+
+-   Control projects with your voice.
+
+-   See detailed guides and example Arduino codes.
+
+-   Send and receive data easily.
+
+-   ArduBlu provides premium content, yet it is ad-free.
