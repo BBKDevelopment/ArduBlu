@@ -14,7 +14,7 @@ ArduBlu provides premium content to the user while it is ad-free. We expect only
 
 &nbsp;
 
-## Key Featues
+### Key Features
 -	Connect to Bluetooth modules. (e.g. HC-05, HC-06, etc.)
 
 -   Control projects via Bluetooth. (e.g. Arduino, Raspberry Pi, Raspberry Pico, etc.)
