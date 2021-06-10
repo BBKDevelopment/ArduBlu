@@ -16,21 +16,19 @@ ArduBlu provides premium content to the user while it is ad-free. We expect only
 
 ### Key Features
 -	Connect to Bluetooth modules. (e.g. HC-05, HC-06, etc.)
-
 -   Control projects via Bluetooth. (e.g. Arduino, Raspberry Pi, Raspberry Pico, etc.)
-
 -   Remote car control.
-
 -   Create scheduled tasks.
-
 -   Control both servo and step motors.
-
 -   Monitor temperature and set up notifications.
-
 -   Control projects with your voice.
-
 -   See detailed guides and example Arduino codes.
-
 -   Send and receive data easily.
-
 -   ArduBlu provides premium content, yet it is ad-free.
+
+---
+
+## <p align="center">Available on Stores</p> 
+
+
+<p align="center"><img src="images/badge-black1.png" width="300">&nbsp; &nbsp; &nbsp;<img src="images/badge-black2.png" width="300"></p>
