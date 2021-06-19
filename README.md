@@ -26,7 +26,11 @@ ArduBlu provides premium content to the user while it is ad-free. We expect only
 -   Send and receive data easily.
 -   ArduBlu provides premium content, yet it is ad-free.
 
+&nbsp;
+
 ## <p align="center">Available on Stores</p> 
+
+&nbsp;
 
 [<p align="center"><img src="images/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.ArduBlu)
 
