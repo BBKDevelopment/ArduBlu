@@ -1,12 +1,12 @@
 # <p align="center">ArduBlu</p> 
 
-ArduBlu is designed for those who want to control their Arduino projects via Bluetooth connection. Start using by pairing both the Bluetooth module in your project and your phone.
+<p align="justify">ArduBlu is designed for those who want to control their Arduino projects via Bluetooth connection. Start using by pairing both the Bluetooth module in your project and your phone.</p>
 
-There are many projects in ArduBlu to make things easier for you. You can easily customize and adapt the application to your needs.
+<p align="justify">There are many projects in ArduBlu to make things easier for you. You can easily customize and adapt the application to your needs.</p>
 
-ArduBlu provides premium content to the user while it is ad-free. We expect only one thing from you/user, and that is a positive and supportive comment about ArduBlu on the platform where you download it to your device.
+<p align="justify">ArduBlu provides premium content to the user while it is ad-free. We expect only one thing from you/user, and that is a positive and supportive comment about ArduBlu on the platform where you download it to your device.</p>
 
-<i>Attention: If your phone cannot see the module in the Bluetooth settings, there may be a problem with the module or the android may not support the module. In this case, you cannot control your project with ArduBlu!</i>
+<p align="justify"><i>Attention: If your phone cannot see the module in the Bluetooth settings, there may be a problem with the module or the android may not support the module. In this case, you cannot control your project with ArduBlu!</i></p>
 
 &nbsp;
 
@@ -53,6 +53,7 @@ Release notes:
 - Improved the tap area of buttons. Now it is much easier to tap.
 
 &nbsp;
+&nbsp;
 
 <p align=right>Mar 12, 2021</p>
 <p align=left>1.0.0</p>
@@ -60,3 +61,15 @@ Release notes:
 Release notes:
 
 - Release version, ArduBlu released on stores.
+
+&nbsp;
+
+## <p align="center">Privacy & Terms</p> 
+
+&nbsp;
+
+[<p align="center">Privacy Policy</p>](https://www.bbkdevelopment.com/bbk-development/ardublu/privacy-policy)
+
+&nbsp;
+
+[<p align="center">Terms & Conditions</p>](https://www.bbkdevelopment.com/bbk-development/ardublu/terms-and-conditions)
