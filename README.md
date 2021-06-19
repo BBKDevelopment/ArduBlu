@@ -32,6 +32,29 @@ ArduBlu provides premium content to the user while it is ad-free. We expect only
 
 &nbsp;
 
-[<p align="center"><img src="images/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.ArduBlu)
+[<p align="center"><img src="images/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.ArduBlu)[<p align="center"><img src="images/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104396175)
 
-[<p align="center"><img src="images/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104396175)
+&nbsp;
+
+## <p align="center">Versions</p> 
+
+&nbsp;
+
+2.0.0 Jun 12, 2021
+
+Release notes:
+
+- Migrated to Flutter version 2.
+- Fixed the bugs related to version migration.
+- Updated the packages.
+- Made some minor changes to the user interface.
+- Disabled the in-app review system until the next update.
+- Improved the tap area of buttons. Now it is much easier to tap.
+
+&nbsp;
+
+1.0.0 Mar 12, 2021
+
+Release notes:
+
+- Release version, ArduBlu released on stores.
