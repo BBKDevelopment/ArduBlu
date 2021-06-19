@@ -40,7 +40,8 @@ ArduBlu provides premium content to the user while it is ad-free. We expect only
 
 &nbsp;
 
-2.0.0 Jun 12, 2021
+<p align=right>Jun 12, 2021</p>
+<p align=left>2.0.0</p> 
 
 Release notes:
 
@@ -53,7 +54,8 @@ Release notes:
 
 &nbsp;
 
-1.0.0 Mar 12, 2021
+<p align=right>Mar 12, 2021</p>
+<p align=left>1.0.0</p>
 
 Release notes:
 
