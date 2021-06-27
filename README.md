@@ -40,6 +40,19 @@
 
 &nbsp;
 
+<p align=right>Jun 27, 2021</p>
+<p align=left>2.0.1</p> 
+
+Release notes:
+
+- Activated the in-app review system.
+- Changed an asset.
+- Updated the contact email address.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Jun 12, 2021</p>
 <p align=left>2.0.0</p> 
 
@@ -53,6 +66,7 @@ Release notes:
 - Improved the tap area of buttons. Now it is much easier to tap.
 
 &nbsp;
+
 &nbsp;
 
 <p align=right>Mar 12, 2021</p>
