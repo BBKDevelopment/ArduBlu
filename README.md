@@ -10,7 +10,7 @@
 
 &nbsp;
 
-<p align="center">Official Website: <a href="https://www.bbkdevelopment.com/bbk-development/ardublu">BBK Development</a></p>
+<p align="center">Official Website: <a href="https://www.bbkdevelopment.com/apps/ardublu">BBK Development</a></p>
 
 &nbsp;
 
@@ -32,7 +32,11 @@
 
 &nbsp;
 
-[<p align="center"><img src="images/badge-black1.png" width="300"></p>](https://play.google.com/store/apps/details?id=com.BBKDevelopment.ArduBlu)[<p align="center"><img src="images/badge-black2.png" width="300"></p>](https://appgallery.huawei.com/#/app/C104396175)
+<div align="center">
+
+[<img src="images/badge-black1.png" height="125" width="300">](https://play.google.com/store/apps/details?id=com.BBKDevelopment.ArduBlu)
+[<img src="images/badge-black2.png" height="125" width="300">](https://appgallery.huawei.com/#/app/C104396175)
+</div>
 
 &nbsp;
 
