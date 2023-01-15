@@ -86,8 +86,11 @@ Release notes:
 
 &nbsp;
 
-[<p align="center">Privacy Policy</p>](https://www.bbkdevelopment.com/bbk-development/ardublu/privacy-policy)
+<div align="center">
+
+[Privacy Policy](https://www.bbkdevelopment.com/apps/ardublu/privacy-policy)
 
 &nbsp;
 
-[<p align="center">Terms & Conditions</p>](https://www.bbkdevelopment.com/bbk-development/ardublu/terms-and-conditions)
+[Terms & Conditions](https://www.bbkdevelopment.com/apps/ardublu/terms-and-conditions)
+</div>
